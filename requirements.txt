@@ -1,0 +1,5 @@
+selenium
+rich
+PyCryptodomex
+cx_Freeze
+dload
